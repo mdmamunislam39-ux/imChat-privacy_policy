@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - imChat</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1, h2, h3 { color: #111; }
+        h1 { border-bottom: 2px solid #eaeaea; padding-bottom: 10px; }
+        .highlight { background: #f4f6f8; border-left: 4px solid #0066cc; padding: 12px 16px; margin: 15px 0; }
+        ul { padding-left: 20px; }
+        footer { margin-top: 40px; border-top: 1px solid #eaeaea; padding-top: 20px; font-size: 0.9em; color: #777; }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy for imChat</h1>
+    <p><strong>Effective Date:</strong> November 21, 2026</p>
+    <p><strong>Last Updated:</strong> November 21, 2026</p>
+
+    <p>Welcome to <strong>imChat</strong> ("we", "our", or "us"). We are committed to protecting your personal information and your right to privacy. This Privacy Policy describes how we collect, use, store, and share your personal information when you use our mobile application (<strong>imChat</strong>, package: <code>com.imchatapp</code>) and related services.</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>We collect information that you voluntarily provide to us when you register on the Application, express an interest in obtaining information about us or our products and services, or otherwise when you contact us.</p>
+    
+    <h3>A. Personal Information Provided by You</h3>
+    <ul>
+        <li><strong>Account Information:</strong> Phone number, email address, username, display name, profile photo, and password.</li>
+        <li><strong>Profile Data:</strong> Gender, bio, status message, date of birth, and avatar frames.</li>
+        <li><strong>Communications & Media:</strong> Messages, audio messages, photos, voice rooms audio streams, and virtual gifts sent within the app.</li>
+    </ul>
+
+    <h3>B. Information Collected Through Google Sign-In</h3>
+    <p>When you choose to register or log in using Google OAuth / Google Sign-In, we collect the following basic information authorized by you:</p>
+    <ul>
+        <li>Your primary Google account email address</li>
+        <li>Your Google public profile name</li>
+        <li>Your Google profile photo URL</li>
+    </ul>
+
+    <h2>2. Google API Services User Data Policy Compliance</h2>
+    <div class="highlight">
+        <p><strong>imChat</strong> adheres strictly to the <a href="https://developers.google.com/terms/api-services-user-data-policy" target="_blank">Google API Services User Data Policy</a>, including the Limited Use requirements:</p>
+        <ul>
+            <li>We only use Google user data to create your imChat account, verify your identity, and provide core messaging and profile features.</li>
+            <li>We <strong>NEVER</strong> transfer or sell your Google user data to third parties, data brokers, or advertising platforms.</li>
+            <li>We do not use Google user data for serving advertisements, retargeting, or personalized ad profiling.</li>
+            <li>Human access to user data is strictly restricted unless required to resolve critical technical issues, prevent security incidents, or comply with applicable laws.</li>
+        </ul>
+    </div>
+
+    <h2>3. How We Use Your Information</h2>
+    <ul>
+        <li><strong>To facilitate account creation and logon process:</strong> Verifying your phone number via OTP or authenticating via Google account.</li>
+        <li><strong>To deliver services:</strong> Enabling real-time audio rooms, one-on-one and group messaging, voice calls, and social interactions.</li>
+        <li><strong>To protect our Services:</strong> Preventing spam, abuse, unauthorized access, and enforcing our Community Guidelines.</li>
+        <li><strong>To manage virtual items:</strong> Keeping track of wallet balances, coins, virtual gifts, and rewards.</li>
+    </ul>
+
+    <h2>4. Third-Party Service Providers</h2>
+    <p>We work with trusted third-party service providers to facilitate and deliver our service:</p>
+    <ul>
+        <li><strong>Google Play Services & Firebase:</strong> Authentication, Cloud Firestore, Cloud Storage, Firebase Cloud Messaging (FCM), and App Check.</li>
+        <li><strong>Agora.io & LiveKit:</strong> Real-time voice and video streaming engines for audio rooms.</li>
+        <li><strong>Google AdMob:</strong> For displaying optional in-app advertisements.</li>
+    </ul>
+
+    <h2>5. Data Storage, Security & Retention</h2>
+    <p>We implement appropriate technical and organizational security measures to protect the security of any personal information we process. Your data is securely stored in Google Firebase cloud infrastructure with industry-standard encryption in transit and at rest.</p>
+    <p>We retain your personal data only as long as your account remains active or as needed to provide you with the services.</p>
+
+    <h2>6. User Rights & Data Deletion Request</h2>
+    <p>You have the right to access, update, or request the deletion of your personal data at any time:</p>
+    <ul>
+        <li><strong>In-App Deletion:</strong> You can delete your account and personal profile directly through the <em>Settings &gt; Account &gt; Delete Account</em> option within the app.</li>
+        <li><strong>Email Request:</strong> You can also send a data deletion request to our support team at <a href="mailto:mdmamunislam39@gmail.com">mdmamunislam39@gmail.com</a>. Upon receipt, your account, messages, and associated personal data will be permanently purged within 30 days.</li>
+    </ul>
+
+    <h2>7. Children's Privacy</h2>
+    <p>Our Services are not directed to children under the age of 13 (or under 16 in certain jurisdictions), and we do not knowingly collect personal information from children.</p>
+
+    <h2>8. Contact Us</h2>
+    <p>If you have any questions, comments, or concerns about this Privacy Policy or our practices, please contact us at:</p>
+    <ul>
+        <li><strong>App:</strong> imChat</li>
+        <li><strong>Developer:</strong> imChat Team</li>
+        <li><strong>Email:</strong> <a href="mailto:mdmamunislam39@gmail.com">mdmamunislam39@gmail.com</a></li>
+        <li><strong>Website:</strong> <a href="https://imchatapp.com">https://imchatapp.com</a></li>
+    </ul>
+
+    <footer>
+        <p>&copy; 2026 imChat. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
